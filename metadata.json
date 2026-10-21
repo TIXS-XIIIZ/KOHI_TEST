@@ -1,0 +1,6 @@
+{
+  "name": "Kōhī (จิบกาแฟ) — Thai Banking Income & Expense Tracker",
+  "description": "Offline-first, privacy-first personal income & expense tracker designed for Thai banking (K PLUS, SCB Easy, Krungthai NEXT, PromptPay) with on-device slip OCR, EMVCo QR parsing, Android Notification Listener, iOS WidgetKit/Shortcuts, and full Flutter/Kotlin/Swift source code export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
